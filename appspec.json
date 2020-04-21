@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "dependencies": {
+    "R": [
+      {
+        "name": "prettyunits"
+      },
+      {
+        "name": "move",
+        "version": "3.3.0"
+      },
+      {
+        "name": "jsonlite",
+        "version": "1.6.1"
+      }
+    ]
+  }
+}
