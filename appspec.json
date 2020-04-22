@@ -4,6 +4,9 @@
     "R": [
       {
         "name": "prettyunits"
+      },
+      {
+        "name": "futile.logger"
       }
     ]
   }
