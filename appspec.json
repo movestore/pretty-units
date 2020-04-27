@@ -7,10 +7,6 @@
       },
       {
         "name": "futile.logger"
-      },
-      {
-        "name": "httr",
-        "version": "1.3"
       }
     ]
   }
